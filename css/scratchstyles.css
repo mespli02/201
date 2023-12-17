@@ -1,0 +1,49 @@
+body{
+    background-color: burlywood;
+}
+a:visited{
+    color: beige;
+}
+a:hover{
+    font-size: 110%;
+}
+.tableaustyle{
+    display: block;
+    margin: auto;
+}
+ol{
+    background-color: rgba(2, 36, 16, 0.989);
+    color: white;
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    color:black;
+    border-bottom: 3px white;
+}
+header{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    text-align: center;
+    top: 0px;
+    display: block;
+    margin: auto;
+}
+footer{
+    bottom: absolute;
+    text-align: center;
+    margin: auto;
+    font-size: medium;
+}
+h2{
+    font-size: large;
+    color: black;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.link{
+    color: black;
+    cursor: white;
+}
