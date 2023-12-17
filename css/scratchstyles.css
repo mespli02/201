@@ -1,8 +1,11 @@
 body{
     background-color: burlywood;
 }
+a{
+    color:beige;
+}
 a:visited{
-    color: beige;
+    color: black;
 }
 a:hover{
     font-size: 110%;
